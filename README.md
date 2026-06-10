@@ -229,8 +229,8 @@ You need to submit your ERD as:
 | **Section** | **Marks** |
 | --- | --- |
 | **ERD Design** | 40% |
-| **SQL Queries (1-10)** | 40% |
-| **Theory Answers (1-5)** | 20% |
+| **SQL Queries** | 40% |
+| **Theory Answers** | 20% |
 | **Total** | **100%** |
 
 ## 3️⃣ Final Submission Checklist
